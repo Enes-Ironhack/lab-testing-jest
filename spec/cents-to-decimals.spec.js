@@ -1,3 +1,4 @@
+const { centsToDecimals } = require('../src/cents-to-decimals');
 /* 
 FOR TEST EXAMPLES AND DIFFERENT MATCHERS (`toEqual`, `toBe`, `not.toBe`, etc):
 https://jestjs.io/docs/using-matchers
